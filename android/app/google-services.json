@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "453597000152",
+    "project_id": "miageflutter",
+    "storage_bucket": "miageflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453597000152:android:4d1ef32984f65a7034c2ad",
+        "android_client_info": {
+          "package_name": "com.flutter.miaged"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453597000152-4pnjio8q8rrm1dl20e3o94mis71bvqpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutter.miaged",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "453597000152-d46tsdp441aius1fbbptbahh1mekmo2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE7PhJxY8Tbieb6m3lPUaa5wmJeDH1_XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453597000152-d46tsdp441aius1fbbptbahh1mekmo2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453597000152-4ih88sfucnks9i7i477jnms0ce59iln7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutter.miaged"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
